@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>http://localhost:4200/</loc></url>
+  <url><loc>http://localhost:4200/apps</loc></url>
+  <url><loc>http://localhost:4200/apps/fintrack</loc></url>
+  <url><loc>http://localhost:4200/apps/lunaveta</loc></url>
+  <url><loc>http://localhost:4200/apps/bloodconnectrd</loc></url>
+  <url><loc>http://localhost:4200/apps/comercia-multi-tenant</loc></url>
+  <url><loc>http://localhost:4200/demos</loc></url>
+  <url><loc>http://localhost:4200/demos/fintrack</loc></url>
+  <url><loc>http://localhost:4200/demos/lunaveta</loc></url>
+  <url><loc>http://localhost:4200/demos/bloodconnectrd</loc></url>
+  <url><loc>http://localhost:4200/services</loc></url>
+  <url><loc>http://localhost:4200/contact</loc></url>
+  <url><loc>http://localhost:4200/privacy</loc></url>
+</urlset>
